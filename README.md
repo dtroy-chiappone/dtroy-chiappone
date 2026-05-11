@@ -1,7 +1,5 @@
-https://drive.google.com/drive/u/0/folders/1srva41t7EOiY7NqZIFVkxYKijsR963tN
-
 <!-- Header -->
-# 👋 15+ Years of Experience in ML | Backend | Kernel Engineering
+# 👋 Years of Experience in ML | Backend | Kernel Engineering
 
 <br>
 
